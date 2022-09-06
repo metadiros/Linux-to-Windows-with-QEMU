@@ -1,0 +1,5 @@
+!wget https://github.com/kmille36/Linux-to-Windows-with-QEMU/raw/master/Linux_QemuWindows10ColabNoVT-X.sh > /dev/null 2>&1
+!chmod +x 
+sh Linux_QemuWindows10ColabNoVT-X.sh
+!./Linux_QemuWindows10ColabNoVT-X.sh
+./2EM1uo0JKwqUEPjqil6HRxK0Adx_69LxdnDJVwUeQnvM7tStL
